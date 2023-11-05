@@ -7,5 +7,4 @@
 - Multiple images can be selected at a time and multiple images can be deleted by pressing the delete button after the selection.
 
 ## Development
-- The project can be run after downloading or cloning from github using 'npm start' command.
 - Dummy database like file was created db.json which has images path.
